@@ -1,0 +1,26 @@
+main ( ) 
+{
+
+dim valor as integer ;
+dim valor1 as string ;
+dim valor2 as decimal ;
+
+if ( a = 1 ) then b := 1 ;
+
+if ( c <> 2 ) then d := 2 ;
+
+if ( e < 3.75 ) then f := g ;
+
+if ( h > " i " ) then m := 4 ;
+
+if ( j < k ) then 
+l := 5 ;
+else
+mm := 6 ;
+
+if ( n <> " o " ) then p := q ;
+if ( r < s ) then t := u ;
+if ( v > w ) then  x := y ;
+if ( z <> zz ) then zzz := xxx ;
+
+}
